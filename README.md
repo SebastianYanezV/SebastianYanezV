@@ -11,15 +11,13 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## **Sobre mí**
 
 <br>
 
 - Estudiante de Ingeniería Civil Informática de la [Pontificia Universidad Católica de Valparaíso](https://www.pucv.cl)
 - Viña del Mar, Chile
-- 21 años
+- 22 años
 
 <br>
 <br>
@@ -31,16 +29,11 @@
 
 <p align="center">
 
-- **Lenguajes que he utilizado**:
+- **Lenguajes que más me gustan**:
     
-    ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
-    ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
     ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -63,7 +56,6 @@
 - **Otros**:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![Jira Software](https://img.shields.io/badge/Jira%20Software-%230A0FFF.svg?style=for-the-badge&logo=jira-software&logoColor=white)
     [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
